@@ -53,7 +53,7 @@ In December 2025, whoeevee, the maintainer of the EeveeSpotify tweak at the time
 
 In March 2026, users of the latest EeveeSpotifyRevivedPublic release (v9.1.28) experienced constant logout issues and reported them to Skye, but EeveeSpotifyRevivedPublic hadn't released any newer updates. During March, I was constantly annoyed by the logout issue and decided to take matters into my own hands: I forked EeveeSpotifyRevivedPublic, fixed the logout issue, and that fork eventually became this repository — **EeveeSpotifyReincarnated** — continuing the legacy of EeveeSpotify for newer versions of Spotify.
 
-Today, EeveeSpotifyReincarnated is maintained by [jaydenjcpy](https://github.com/jaydenjcpy), [faroukbmiled](https://github.com/faroukbmiled), and [Mod4](https://github.com/M0d-4)
+Today, EeveeSpotifyReincarnated is maintained by [jaydenjcpy](https://github.com/jaydenjcpy), [faroukbmiled](https://github.com/faroukbmiled), and [Mod4](https://github.com/M0d-4), keeping the tweak alive as Spotify keeps changing.
 
 
 
@@ -97,7 +97,9 @@ For sideloaded IPAs, we recommend using **SideStore** or certificate-based signi
 
 To open Spotify links in sideloaded app, use [OpenSpotifySafariExtension](https://github.com/BillyCurtis/OpenSpotifySafariExtension). Remember to activate it and allow access in Settings > Safari > Extensions.
 
-## Contributing & Translations
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening issues or pull requests.
 
 Contributions are welcome — bug fixes, new features, and translations alike. If you'd like to translate the tweak into your language or improve an existing localization, see [TRANSLATING.md](TRANSLATING.md) for the workflow, the rules, and the `Tools/l10n_lint.py` checker that validates your translation before you open a PR.
 
